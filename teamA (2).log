@@ -1,0 +1,130 @@
+2026-09-22 15:52:21,423 | listening on 0.0.0.0:6666
+2026-09-22 15:52:22.2981
+process start...
+loop times: 2
+2026-09-22 15:52:22.29904
+/usr/local/bin/python3.11
+2026-09-22 15:52:37,335 | round 1 -> {'10010': {'action': 'build', 'targetPos': [{'x': 8, 'y': 20}], 'name': 'gatling'}, '10012': {'action': 'move', 'targetPos': [{'x': 9, 'y': 23}]}}
+2026-09-22 15:52:37,446 | round 2 -> {'10010': {'action': 'build', 'targetPos': [{'x': 8, 'y': 22}], 'name': 'rocket'}, '10012': {'action': 'move', 'targetPos': [{'x': 10, 'y': 23}]}}
+2026-09-22 15:52:37,502 | round 3 -> {'10010': {'action': 'move', 'targetPos': [{'x': 9, 'y': 20}]}, '10012': {'action': 'move', 'targetPos': [{'x': 11, 'y': 22}]}}
+2026-09-22 15:52:37,538 | round 4 -> {'10010': {'action': 'build', 'targetPos': [{'x': 8, 'y': 21}], 'name': 'railgun'}, '10012': {'action': 'move', 'targetPos': [{'x': 12, 'y': 21}]}}
+2026-09-22 15:52:37,572 | round 5 -> {'10010': {'action': 'move', 'targetPos': [{'x': 10, 'y': 19}]}, '10012': {'action': 'move', 'targetPos': [{'x': 13, 'y': 20}]}}
+2026-09-22 15:52:37,599 | round 6 -> {'10010': {'action': 'move', 'targetPos': [{'x': 11, 'y': 18}]}, '10012': {'action': 'move', 'targetPos': [{'x': 14, 'y': 19}]}, '10011': {'action': 'move', 'targetPos': [{'x': 7, 'y': 22}]}}
+2026-09-22 15:52:37,626 | round 7 -> {'10010': {'action': 'move', 'targetPos': [{'x': 12, 'y': 18}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10011': {'action': 'move', 'targetPos': [{'x': 7, 'y': 21}]}}
+2026-09-22 15:52:37,651 | round 8 -> {'10010': {'action': 'move', 'targetPos': [{'x': 13, 'y': 19}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10011': {'action': 'move', 'targetPos': [{'x': 7, 'y': 20}]}}
+2026-09-22 15:52:37,685 | round 9 -> {'10010': {'action': 'move', 'targetPos': [{'x': 14, 'y': 20}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10011': {'action': 'move', 'targetPos': [{'x': 8, 'y': 19}]}}
+2026-09-22 15:52:37,711 | round 10 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10011': {'action': 'move', 'targetPos': [{'x': 9, 'y': 20}]}}
+2026-09-22 15:52:37,733 | round 11 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}}
+2026-09-22 15:52:37,753 | round 12 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}}
+2026-09-22 15:52:37,773 | round 13 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 15, 'y': 20}]}, '10012': {'action': 'move', 'targetPos': [{'x': 13, 'y': 18}]}}
+2026-09-22 15:52:37,793 | round 14 -> {'10010': {'action': 'move', 'targetPos': [{'x': 13, 'y': 19}]}, '10012': {'action': 'build', 'targetPos': [{'x': 12, 'y': 19}], 'name': 'wall'}}
+2026-09-22 15:52:37,810 | round 15 -> {'10010': {'action': 'move', 'targetPos': [{'x': 12, 'y': 18}]}, '10012': {'action': 'move', 'targetPos': [{'x': 12, 'y': 17}]}}
+2026-09-22 15:52:37,827 | round 16 -> {'10010': {'action': 'build', 'targetPos': [{'x': 11, 'y': 19}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 11, 'y': 18}]}}
+2026-09-22 15:52:37,845 | round 17 -> {'10010': {'action': 'move', 'targetPos': [{'x': 11, 'y': 17}]}, '10012': {'action': 'build', 'targetPos': [{'x': 10, 'y': 19}], 'name': 'wall'}}
+2026-09-22 15:52:37,868 | round 18 -> {'10010': {'action': 'move', 'targetPos': [{'x': 10, 'y': 18}]}, '10012': {'action': 'move', 'targetPos': [{'x': 10, 'y': 17}]}}
+2026-09-22 15:52:37,888 | round 19 -> {'10010': {'action': 'build', 'targetPos': [{'x': 9, 'y': 19}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 9, 'y': 17}]}}
+2026-09-22 15:52:38,518 | round 20 -> {'10010': {'action': 'move', 'targetPos': [{'x': 9, 'y': 18}]}, '10012': {'action': 'move', 'targetPos': [{'x': 8, 'y': 18}]}}
+2026-09-22 15:52:40,974 | round 21 -> {'10010': {'action': 'build', 'targetPos': [{'x': 8, 'y': 19}], 'name': 'wall'}, '10012': {'action': 'build', 'targetPos': [{'x': 7, 'y': 19}], 'name': 'wall'}}
+2026-09-22 15:52:41,007 | round 22 -> {'10010': {'action': 'move', 'targetPos': [{'x': 8, 'y': 17}]}, '10012': {'action': 'move', 'targetPos': [{'x': 7, 'y': 18}]}}
+2026-09-22 15:52:46,835 | round 23 -> {'10010': {'action': 'move', 'targetPos': [{'x': 7, 'y': 17}]}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 19}]}}
+2026-09-22 15:52:47,478 | round 24 -> {'10010': {'action': 'move', 'targetPos': [{'x': 6, 'y': 18}]}, '10012': {'action': 'build', 'targetPos': [{'x': 7, 'y': 20}], 'name': 'wall'}}
+2026-09-22 15:52:50,816 | round 25 -> {'10010': {'action': 'move', 'targetPos': [{'x': 5, 'y': 19}]}, '10012': {'action': 'move', 'targetPos': [{'x': 5, 'y': 20}]}}
+2026-09-22 15:52:50,844 | round 26 -> {'10010': {'action': 'move', 'targetPos': [{'x': 6, 'y': 20}]}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 21}]}}
+2026-09-22 15:52:52,969 | round 27 -> {'10010': {'action': 'build', 'targetPos': [{'x': 7, 'y': 21}], 'name': 'wall'}, '10012': {'action': 'build', 'targetPos': [{'x': 7, 'y': 22}], 'name': 'wall'}}
+2026-09-22 15:52:53,002 | round 28 -> {'10010': {'action': 'move', 'targetPos': [{'x': 5, 'y': 19}]}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 22}]}}
+2026-09-22 15:53:00,137 | round 29 -> {'10010': {'action': 'move', 'targetPos': [{'x': 4, 'y': 18}]}, '10012': {'action': 'build', 'targetPos': [{'x': 7, 'y': 23}], 'name': 'wall'}}
+2026-09-22 15:53:00,155 | round 30 -> {'10010': {'action': 'move', 'targetPos': [{'x': 3, 'y': 17}]}, '10012': {'action': 'move', 'targetPos': [{'x': 5, 'y': 21}]}}
+2026-09-22 15:53:03,678 | round 31 -> {'10010': {'action': 'move', 'targetPos': [{'x': 2, 'y': 16}]}, '10012': {'action': 'move', 'targetPos': [{'x': 4, 'y': 20}]}}
+2026-09-22 15:53:03,709 | round 32 -> {'10010': {'action': 'move', 'targetPos': [{'x': 1, 'y': 15}]}, '10012': {'action': 'move', 'targetPos': [{'x': 3, 'y': 19}]}}
+2026-09-22 15:53:06,546 | round 33 -> {'10010': {'action': 'move', 'targetPos': [{'x': 0, 'y': 14}]}, '10012': {'action': 'move', 'targetPos': [{'x': 2, 'y': 18}]}}
+2026-09-22 15:53:07,179 | round 34 -> {'10010': {'action': 'move', 'targetPos': [{'x': 0, 'y': 13}]}, '10012': {'action': 'move', 'targetPos': [{'x': 1, 'y': 17}]}}
+2026-09-22 15:53:12,756 | round 35 -> {'10010': {'action': 'move', 'targetPos': [{'x': 0, 'y': 12}]}, '10012': {'action': 'move', 'targetPos': [{'x': 0, 'y': 16}]}}
+2026-09-22 15:53:12,771 | round 36 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}, '10012': {'action': 'move', 'targetPos': [{'x': 1, 'y': 15}]}}
+2026-09-22 15:53:12,788 | round 37 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}, '10012': {'action': 'move', 'targetPos': [{'x': 2, 'y': 14}]}}
+2026-09-22 15:53:12,800 | round 38 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}, '10012': {'action': 'move', 'targetPos': [{'x': 3, 'y': 13}]}}
+2026-09-22 15:53:13,398 | round 39 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}, '10012': {'action': 'move', 'targetPos': [{'x': 4, 'y': 12}]}}
+2026-09-22 15:53:16,273 | round 40 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}, '10012': {'action': 'move', 'targetPos': [{'x': 5, 'y': 11}]}}
+2026-09-22 15:53:16,302 | round 41 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 10}]}}
+2026-09-22 15:53:19,486 | round 42 -> {'10010': {'action': 'move', 'targetPos': [{'x': 0, 'y': 13}]}, '10012': {'action': 'move', 'targetPos': [{'x': 5, 'y': 9}]}}
+2026-09-22 15:53:20,141 | round 43 -> {'10010': {'action': 'move', 'targetPos': [{'x': 0, 'y': 14}]}, '10012': {'action': 'move', 'targetPos': [{'x': 4, 'y': 9}]}}
+2026-09-22 15:53:22,790 | round 44 -> {'10010': {'action': 'move', 'targetPos': [{'x': 0, 'y': 15}]}, '10012': {'action': 'move', 'targetPos': [{'x': 3, 'y': 10}]}}
+2026-09-22 15:53:22,819 | round 45 -> {'10010': {'action': 'move', 'targetPos': [{'x': 1, 'y': 16}]}, '10012': {'action': 'move', 'targetPos': [{'x': 2, 'y': 11}]}}
+2026-09-22 15:53:28,373 | round 46 -> {'10010': {'action': 'move', 'targetPos': [{'x': 2, 'y': 17}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}}
+2026-09-22 15:53:28,400 | round 47 -> {'10010': {'action': 'move', 'targetPos': [{'x': 3, 'y': 18}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}}
+2026-09-22 15:53:31,569 | round 48 -> {'10010': {'action': 'move', 'targetPos': [{'x': 4, 'y': 19}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}}
+2026-09-22 15:53:32,190 | round 49 -> {'10010': {'action': 'move', 'targetPos': [{'x': 5, 'y': 20}]}, '10012': {'action': 'collect', 'targetPos': [{'x': 1, 'y': 11}]}}
+2026-09-22 15:53:37,237 | round 50 -> {'10010': {'action': 'move', 'targetPos': [{'x': 6, 'y': 21}]}, '10012': {'action': 'move', 'targetPos': [{'x': 1, 'y': 12}]}}
+2026-09-22 15:53:37,266 | round 51 -> {'10010': {'action': 'move', 'targetPos': [{'x': 6, 'y': 22}]}, '10012': {'action': 'move', 'targetPos': [{'x': 0, 'y': 13}]}}
+2026-09-22 15:53:40,821 | round 52 -> {'10010': {'action': 'move', 'targetPos': [{'x': 6, 'y': 23}]}, '10012': {'action': 'move', 'targetPos': [{'x': 0, 'y': 14}]}}
+2026-09-22 15:53:40,847 | round 53 -> {'10010': {'action': 'build', 'targetPos': [{'x': 7, 'y': 24}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 0, 'y': 15}]}}
+2026-09-22 15:53:48,523 | round 54 -> {'10010': {'action': 'move', 'targetPos': [{'x': 6, 'y': 24}]}, '10012': {'action': 'move', 'targetPos': [{'x': 1, 'y': 16}]}}
+2026-09-22 15:53:48,534 | round 55 -> {'10010': {'action': 'move', 'targetPos': [{'x': 7, 'y': 25}]}, '10012': {'action': 'move', 'targetPos': [{'x': 2, 'y': 17}]}}
+2026-09-22 15:53:48,548 | round 56 -> {'10010': {'action': 'build', 'targetPos': [{'x': 8, 'y': 24}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 3, 'y': 18}]}}
+2026-09-22 15:53:48,563 | round 57 -> {'10010': {'action': 'move', 'targetPos': [{'x': 8, 'y': 25}]}, '10012': {'action': 'move', 'targetPos': [{'x': 4, 'y': 19}]}}
+2026-09-22 15:53:48,574 | round 58 -> {'10010': {'action': 'build', 'targetPos': [{'x': 9, 'y': 24}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 5, 'y': 20}]}}
+2026-09-22 15:53:48,585 | round 59 -> {'10010': {'action': 'move', 'targetPos': [{'x': 9, 'y': 25}]}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 21}]}}
+2026-09-22 15:53:48,597 | round 60 -> {'10010': {'action': 'build', 'targetPos': [{'x': 10, 'y': 24}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 22}]}}
+2026-09-22 15:53:48,606 | round 61 -> {'10010': {'action': 'move', 'targetPos': [{'x': 10, 'y': 25}]}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 23}]}}
+2026-09-22 15:53:48,620 | round 62 -> {'10010': {'action': 'build', 'targetPos': [{'x': 11, 'y': 24}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 6, 'y': 24}]}}
+2026-09-22 15:53:48,629 | round 63 -> {'10010': {'action': 'move', 'targetPos': [{'x': 11, 'y': 25}]}, '10012': {'action': 'move', 'targetPos': [{'x': 7, 'y': 25}]}}
+2026-09-22 15:53:48,638 | round 64 -> {'10010': {'action': 'build', 'targetPos': [{'x': 12, 'y': 24}], 'name': 'wall'}, '10012': {'action': 'move', 'targetPos': [{'x': 8, 'y': 25}]}}
+2026-09-22 15:53:48,654 | round 65 -> {'10010': {'action': 'move', 'targetPos': [{'x': 12, 'y': 26}]}, '10012': {'action': 'move', 'targetPos': [{'x': 9, 'y': 25}]}}
+2026-09-22 15:53:48,666 | round 66 -> {'10010': {'action': 'move', 'targetPos': [{'x': 13, 'y': 27}]}, '10012': {'action': 'move', 'targetPos': [{'x': 10, 'y': 25}]}}
+2026-09-22 15:53:48,677 | round 67 -> {'10010': {'action': 'move', 'targetPos': [{'x': 14, 'y': 28}]}, '10012': {'action': 'move', 'targetPos': [{'x': 11, 'y': 25}]}}
+2026-09-22 15:53:48,685 | round 68 -> {'10010': {'action': 'move', 'targetPos': [{'x': 15, 'y': 29}]}, '10012': {'action': 'move', 'targetPos': [{'x': 12, 'y': 25}]}}
+2026-09-22 15:53:48,694 | round 69 -> {'10010': {'action': 'move', 'targetPos': [{'x': 16, 'y': 30}]}, '10012': {'action': 'move', 'targetPos': [{'x': 13, 'y': 24}]}}
+2026-09-22 15:53:48,701 | round 70 -> {'10010': {'action': 'collect', 'targetPos': [{'x': 17, 'y': 31}]}, '10012': {'action': 'build', 'targetPos': [{'x': 12, 'y': 23}], 'name': 'wall'}}
+2026-09-22 15:53:48,731 | round 71 -> {'10012': {'action': 'move', 'targetPos': [{'x': 13, 'y': 23}]}}
+2026-09-22 15:53:48,759 | round 72 -> {'10012': {'action': 'move', 'targetPos': [{'x': 12, 'y': 22}]}}
+2026-09-22 15:53:48,776 | round 73 -> {'10012': {'action': 'move', 'targetPos': [{'x': 11, 'y': 22}]}}
+2026-09-22 15:53:48,791 | round 74 -> {'10012': {'action': 'move', 'targetPos': [{'x': 10, 'y': 23}]}}
+2026-09-22 15:53:48,808 | round 75 -> {'10012': {'action': 'move', 'targetPos': [{'x': 9, 'y': 23}]}}
+2026-09-22 15:53:48,824 | round 76 -> {'10040': {'action': 'attack', 'targetPos': [{'x': 18, 'y': 21}], 'controllerId': '10012'}}
+2026-09-22 15:53:48,839 | round 77 -> {}
+2026-09-22 15:53:48,851 | round 78 -> {}
+2026-09-22 15:53:48,863 | round 79 -> {}
+2026-09-22 15:53:48,905 | round 80 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 14, 'y': 21}], 'controllerId': '10011'}, '10040': {'action': 'attack', 'targetPos': [{'x': 14, 'y': 21}], 'controllerId': '10012'}}
+2026-09-22 15:53:48,923 | round 81 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 13, 'y': 21}], 'controllerId': '10011'}}
+2026-09-22 15:53:48,944 | round 82 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 12, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:48,964 | round 83 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10011'}}
+2026-09-22 15:53:48,980 | round 84 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10011'}, '10040': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10012'}}
+2026-09-22 15:53:48,999 | round 85 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,014 | round 86 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,031 | round 87 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,049 | round 88 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10011'}, '10040': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10012'}}
+2026-09-22 15:53:49,065 | round 89 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,080 | round 90 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 21}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,095 | round 91 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,113 | round 92 -> {'10030': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10011'}, '10040': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10012'}}
+2026-09-22 15:53:49,128 | round 93 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,144 | round 94 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,160 | round 95 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,179 | round 96 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,194 | round 97 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,207 | round 98 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,226 | round 99 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,305 | round 100 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,376 | round 101 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,457 | round 102 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,545 | round 103 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,627 | round 104 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,676 | round 105 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 23}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,721 | round 106 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,769 | round 107 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,824 | round 108 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,889 | round 109 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,942 | round 110 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:49,995 | round 111 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 10, 'y': 18}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,060 | round 112 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,114 | round 113 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,165 | round 114 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,217 | round 115 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,270 | round 116 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,345 | round 117 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,396 | round 118 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 20}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,451 | round 119 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,536 | round 120 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,600 | round 121 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,649 | round 122 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,696 | round 123 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
+2026-09-22 15:53:50,743 | round 124 -> {'10020': {'action': 'attack', 'targetPos': [{'x': 11, 'y': 22}], 'controllerId': '10011'}}
